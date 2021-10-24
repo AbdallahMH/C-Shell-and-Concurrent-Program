@@ -65,3 +65,15 @@ prompt$ showpid \
 
 ---
 
+## Project 2 Description - Implementing a Concurrent Program
+### Problem statement
+
+Program
+Design and implement a small concurrent program. Programming is done using C. You can select yourself the sub-project area from the following (Bank System, Airline Tickets, Library, Pharmacy. etc.) or use your own problem (specification approved in advance). The concurrent program must demonstrate semaphores and synchronizations best usages. Since its concurrent programing, I expect you to use multithreading to demonstrate how to manage critical sections. 
+Accepted concurrent sub-program project contains at least the following:
+1.	Problem description
+2.	Explanation for selected solution method and granularity of used concurrency
+3.	Algorithmic solution and explanations why it is correct
+4.	Explanation on the advantages of the concurrent solution as compared to the serial solution (e.g., you can use linux command time).
+5.	Solution source code
+6.	Executable program as attachment, with enough user instructions. It must be very easy to execute it.
