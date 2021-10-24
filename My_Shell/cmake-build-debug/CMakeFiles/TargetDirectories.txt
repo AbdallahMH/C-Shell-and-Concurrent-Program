@@ -1,0 +1,3 @@
+C:/Users/Abdallah/Desktop/My_Shell/cmake-build-debug/CMakeFiles/My_Shell.cbp.dir
+C:/Users/Abdallah/Desktop/My_Shell/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Abdallah/Desktop/My_Shell/cmake-build-debug/CMakeFiles/rebuild_cache.dir

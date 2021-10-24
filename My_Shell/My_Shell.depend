@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1586538114 source:/home/soma/Documents/Rex-Projects/My_Shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/wait.h>
+	<unistd.h>
+	<string.h>
+
